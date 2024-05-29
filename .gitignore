@@ -1,0 +1,16 @@
+__pycache__/*
+utils/__pycache__/*
+models/__pycache__/*
+checkpoints/*
+.vscode/*
+results/*
+Survival/*
+folds.csv
+script.sh
+scriptFUSION.sh
+treatment_response.csv
+Untitled-1.ipynb
+Untitled 2.groovy
+roc.py
+heatmaps.py
+test.py
