@@ -1,4 +1,4 @@
-# Histopathology image embedding based on foundation models features aggregation for patient treatment response prediction [MICCAI MOVI 2024]
+# Histopathology image embedding based on foundation models features aggregation for patient treatment response prediction [MICCAI MOVI workshop 2024]
 
 <details>
 <summary>
@@ -23,7 +23,7 @@
 
 ## Installation
 
-Please make sure the following packages are.
+Please make sure the following packages are installed.
 
     - conch
     - huggingface-hub
